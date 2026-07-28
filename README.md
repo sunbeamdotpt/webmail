@@ -15,6 +15,7 @@ A modern, self-hosted webmail client for [Stalwart Mail Server](https://stalw.ar
 [![Version](https://img.shields.io/badge/version-1.7.2-green.svg?logo=git&logoColor=white)](CHANGELOG.md)
 [![Docker](https://img.shields.io/badge/docker-ghcr.io%2Fbulwarkmail%2Fwebmail-blue?logo=docker&logoColor=white)](https://ghcr.io/bulwarkmail/webmail)
 [![Grafana](https://img.shields.io/badge/grafana-dashboard-orange?logo=grafana&logoColor=white)](https://grafana.external.bulwarkmail.org/)
+[![Matrix](https://img.shields.io/badge/chat-%23hello%3Asunbeam.pt-0dbd8b?logo=matrix)](https://matrix.to/#/#hello:sunbeam.pt)
 
 </div>
 
